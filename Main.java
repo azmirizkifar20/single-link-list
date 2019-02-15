@@ -20,7 +20,7 @@ public class Main {
             System.out.println("7. Hapus data (semua)");
             System.out.println("8. Tampilkan data");
             System.out.println("9. Tampilkan data (nilai tertinggi)");
-            System.out.println("10. Keluar");
+            System.out.println("10. Keluarin");
             System.out.println("===================================");
             System.out.print("Masukkan pilihan => "); int pilih = input.nextInt();
             System.out.println();
